@@ -1,7 +1,0 @@
-C:/Projects/HZB/UITest/build/CMakeFiles/ALL_BUILD.dir
-C:/Projects/HZB/UITest/build/CMakeFiles/ZERO_CHECK.dir
-C:/Projects/HZB/UITest/build/UITest/CMakeFiles/example_glfw_vulkan.dir
-C:/Projects/HZB/UITest/build/UITest/CMakeFiles/ALL_BUILD.dir
-C:/Projects/HZB/UITest/build/UITest/binary_dir/CMakeFiles/ALL_BUILD.dir
-C:/Projects/HZB/UITest/build/UITest/binary_dir/src/CMakeFiles/glfw.dir
-C:/Projects/HZB/UITest/build/UITest/binary_dir/src/CMakeFiles/update_mappings.dir
