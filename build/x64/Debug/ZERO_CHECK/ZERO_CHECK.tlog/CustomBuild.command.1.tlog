@@ -1,0 +1,10 @@
+^C:\PROJECTS\HZB\UITEST\BUILD\CMAKEFILES\B1FD5AC21D36E9DBFB9B7101F115212C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Projects/HZB/UITest -BC:/Projects/HZB/UITest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Projects/HZB/UITest/build/RAY-X_UI.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

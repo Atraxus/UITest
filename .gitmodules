@@ -1,0 +1,6 @@
+[submodule "Extern/glfw"]
+	path = Extern/glfw
+	url = https://github.com/glfw/glfw
+[submodule "Extern/imgui"]
+	path = Extern/imgui
+	url = https://github.com/ocornut/imgui
