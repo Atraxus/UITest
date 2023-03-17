@@ -1,0 +1,5 @@
+project(RAY-X_UI)
+cmake_minimum_required(VERSION 3.2)
+
+
+add_subdirectory(UITest)
